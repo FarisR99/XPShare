@@ -1,0 +1,9 @@
+name: XPShare
+version: 1.0.0
+main: me.faris.xpshare.Main
+description: Sharing XP system.
+author: KingFaris10
+commands:
+   xpshare:
+     description: The XPShare command.
+     usage: /<command> [<reload>|<radius>] [<value>]
